@@ -66,4 +66,5 @@ See jupyter notebook.
 
 ## Other tips
 -Make sure to have all correct and compatible depencies.  
--Make sure to have the yolov9-m.yaml and yolov9-m.pt files, if not download it manually from repository.
+-Make sure to have the yolov9-m.yaml and yolov9-m.pt files, if not download it manually from yolov9 repository.  
+-'Basil leaf identifier' datset can be downloaded without a key from the roboflow link.
